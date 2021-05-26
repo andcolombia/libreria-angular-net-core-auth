@@ -1,7 +1,7 @@
-## Librería de Integración con Angular y .Net Core
+# Librería de Integración con Angular y .Net Core
 Repositorio con el ejemplo de integración al Servicio de Autenticación Digital con Angular y .Net Core
 
-# OidcClient
+## OidcClient
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.2.
 
