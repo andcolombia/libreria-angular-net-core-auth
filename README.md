@@ -1,4 +1,4 @@
-# libreria-angular-net-core-auth
+## Librería de Integración con Angular y .Net Core
 Repositorio con el ejemplo de integración al Servicio de Autenticación Digital con Angular y .Net Core
 
 # OidcClient
